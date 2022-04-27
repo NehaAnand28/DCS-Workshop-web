@@ -1,11 +1,7 @@
 /* navbar */
-.navbar-hero{
-    margin-top:1.5rem;
-
-}
 .navbar{
     display: flex;
-    justify-content:space-around;
+    justify-content:space-between;
     align-items: center;
 
 }
@@ -21,4 +17,15 @@
 
 .navbar__button a{
     text-decoration: none;
+}
+
+/* FOOTER */
+footer{
+    min-height: 100%;
+}
+.footer-content{
+    color: #6A6D9E;
+}
+footer .nav-link{
+    color: #16194F;
 }
