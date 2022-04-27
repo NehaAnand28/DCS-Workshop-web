@@ -3,6 +3,7 @@ body {
 }
 
 /* navbar */
+<<<<<<< HEAD
 .navbar-hero {
   margin-top: 1.5rem;
 }
@@ -10,6 +11,13 @@ body {
   display: flex;
   justify-content: space-around;
   align-items: center;
+=======
+.navbar{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+
+>>>>>>> 8e1efbb8af3cbdb0f3bfbbf43ccb27a9149c1618
 }
 .navbar__logo img {
   width: 50%;
@@ -21,6 +29,7 @@ body {
   padding: 9px 35px;
 }
 
+<<<<<<< HEAD
 a {
   color: white;
 }
@@ -54,3 +63,23 @@ a {
 .font-white {
   color: white !important;
 }
+=======
+.navbar__button a{
+    text-decoration: none;
+}
+
+/* FOOTER */
+footer{
+    min-height: 100%;
+}
+.footer-content{
+    color: #6A6D9E;
+}
+footer .nav-link{
+    color: #16194F;
+}
+
+body {
+    background-color: #F2F6FF;
+}
+>>>>>>> 8e1efbb8af3cbdb0f3bfbbf43ccb27a9149c1618
