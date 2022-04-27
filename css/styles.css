@@ -1,0 +1,24 @@
+/* navbar */
+.navbar-hero{
+    margin-top:1.5rem;
+
+}
+.navbar{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.navbar__logo img{
+    width: 50%;
+}
+.navbar__button{
+    background-color:#F44E77;
+    text-decoration:none;
+    border-radius: 28px;
+    padding: 13px 40px 13px 40px;
+}
+
+.navbar__button a{
+    text-decoration: none;
+}
