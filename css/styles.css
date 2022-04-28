@@ -69,3 +69,39 @@ footer {
 footer .nav-link {
   color: #16194f;
 }
+
+.card-btn {
+  border: solid #16194f 2px;
+  border-radius: 15px
+}
+
+.card-btn-link {
+  text-decoration: none;
+  color: #16194f
+}
+
+.card-check-icon {
+  height: 30px;
+  margin-right: 10px
+}
+
+.card-list-dead {
+  filter: grayscale(100%);
+  opacity: 80%
+}
+
+.faq-img {
+  float: right;
+  height: 18px;
+  position: relative;
+  top: 3px;
+}
+
+.footer-cont {
+  background-color: #DCE2F0;
+}
+
+.plan-card {
+  background-color: white;
+  border-radius: 100px
+}
