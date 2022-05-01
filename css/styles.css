@@ -21,7 +21,7 @@ a {
   text-decoration: none;
 }
 
-/* @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .section-1 {
     background-size: 100% 50%;
   }
@@ -31,7 +31,7 @@ a {
   .section-1 {
     background-size: 100% 25%;
   }
-} */
+}
 
 .nav-link {
   color: white;
